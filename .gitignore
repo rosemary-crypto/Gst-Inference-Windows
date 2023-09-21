@@ -1,0 +1,40 @@
+# Editor backup
+*~
+*.bak
+\#*
+*.orig
+
+# Build outputs
+*.o
+
+# Git conflict files
+.merge_file_*
+
+# GtkDoc
+docs/version.entities
+docs/plugins/*.txt
+docs/plugins/*.sgml
+docs/plugins/*.new
+docs/plugins/*.args
+docs/plugins/*.hierarchy
+docs/plugins/*.interfaces
+docs/plugins/*.prerequisites
+docs/plugins/*.signals
+docs/plugins/*.stamp
+docs/plugins/html/
+docs/plugins/xml/
+
+# Tests 
+test-driver
+*.xml
+*.log
+*.trs
+
+# 3rd party tools
+.clang_complete
+cscope.files
+cscope.out
+
+# Examples
+tests/examples/classification/classification
+tests/examples/detection/detection

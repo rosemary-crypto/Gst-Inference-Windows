@@ -1,0 +1,9 @@
+{
+	"mesonbuild.configureOnOpen": false,
+	"files.associations": {
+		"math.h": "c",
+		"gstchildinspector.h": "c",
+		"cmath": "cpp",
+		"iterator": "cpp"
+	}
+}
